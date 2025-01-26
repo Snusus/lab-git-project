@@ -1,2 +1,4 @@
-def helper_function():
-    pass
+# utils.py
+def add_numbers(a, b):
+    """Добавляет два числа."""
+    return a + b
